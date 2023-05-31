@@ -39,7 +39,7 @@ const Catagory = () => {
         </SwiperSlide>
         <SwiperSlide>
         <img src={img3} alt="" />
-        <h3 className="text-center text-white uppercase -mt-12  ">Pizzes</h3>
+        <h3 className="text-center text-white uppercase -mt-12">Pizzes</h3>
         </SwiperSlide>
         <SwiperSlide>
         <img src={img4} alt="" />
