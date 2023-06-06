@@ -28,11 +28,5 @@
         "name": "Robert Johnson",
         "details": "This is by far the best service I have ever used. The customer support is outstanding, and the product itself is top-notch. I couldn't be happier!",
         "rating": 5
-    },
-    {
-        "_id": "6430113af5a7e52ce1e8fa69",
-        "name": "Morsalin",
-        "details": "This is by far the best service I have ever used. The customer support is outstanding, and the product itself is top-notch. I couldn't be happier!",
-        "rating": 2
     }
 ]
